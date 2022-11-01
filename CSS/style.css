@@ -1,0 +1,55 @@
+.container-fluid-nav div,h2,.fsubmit{
+    display: flex;
+  justify-content: space-around;
+ 
+
+}
+
+  nav {
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+    margin-bottom: 30px;
+
+  }
+
+ form ,h2,.SECTION-II{
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+  
+ h2{
+
+  margin-top: 24px;
+  color:#0dcaf0;
+ }
+
+ img {
+ 
+  height: 100px;
+}
+  
+
+#testimonials{
+  background-color:#0d6efd;
+  color:#fff;
+}
+
+.testimonial-text{
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.testimonial-img{
+  margin-left: 44%;
+}
+
+#footer{
+  text-align: center;
+  background-color: #000000;
+
+  display: flex;
+  justify-content: space-around;
+}
+
+.footer_img{
+  padding:2px 0px 0px 2px ;
+}
